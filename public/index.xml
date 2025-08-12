@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Helgen Technologies</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Helgen Technologies</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 19 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Helgen Technologies receives nomination from Spark Crowd Funding</title>
+      <link>//localhost:1313/timeline/02-spark-crowfunding/</link>
+      <pubDate>Sun, 19 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/timeline/02-spark-crowfunding/</guid>
+      <description>&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&#xA;&lt;p class=&#34;center&#34;&gt;&lt;a href=&#34;https://issuu.com/sparkcrowdfunding/docs/top_100_most_ambitious_companies_in_ireland_2022&#34; target=_blank&gt;&lt;img src=&#34;../../images/spark.png&#34; width=&#34;1100&#34; &gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Helgen has been recognized as one of the top 100 most ambitious company’s in Ireland.&lt;/p&gt;&#xA;&lt;p&gt;Spark Crowd Funding, founded in 2018, provides Irish companies with an opportunity to gain attention form a variety of private investors. This organization allow companies like Helgen to secure funding necessary for growth.&lt;/p&gt;&#xA;&lt;p&gt;Equity crowdfunding has proven to be very popular and advantageous in the UK and US. Irish investors are likely to invest in Irish companies, Spark Crowd funding connects the dots by uniquely joining investors with innovative companies.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Helgen awarded silver at Ireland National Startup Awards</title>
+      <link>//localhost:1313/timeline/01-foundation/</link>
+      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/timeline/01-foundation/</guid>
+      <description>&lt;p class=&#34;center&#34;&gt;&lt;img src=&#34;../../images/award.png&#34; width=&#34;500&#34; &gt;&lt;/p&gt;&#xA;&lt;p&gt;The National Startup Awards celebrated its tenth anniversary this year. Helgen Technologies sets the bar for intelligent autonomous systems by taking silver in the &amp;ldquo;&lt;strong&gt;Emerge Tech Startup&lt;/strong&gt;&amp;rdquo; category.&lt;/p&gt;&#xA;&lt;p&gt;The National Startup awards acknowledge early-stage companies by providing them with an opportunity to gain national and international recognition from other companies and potential investors.&lt;/p&gt;&#xA;&lt;p&gt;The start-up specializes in the complex retrofitting of heavy equipment to convert into autonomous systems, which will be utilized in different verticals, such as mining and waste industries. &lt;strong&gt;Helgen Technologies is on a mission to bring automation to the right place.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Us</title>
+      <link>//localhost:1313/about/_about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/_about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Careers</title>
+      <link>//localhost:1313/careers/_careers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/careers/_careers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital Twin Simulation Services</title>
+      <link>//localhost:1313/digitaltp/_digitaltp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/digitaltp/_digitaltp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital Twin Simulation Services</title>
+      <link>//localhost:1313/digitaltsm/_digitaltsm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/digitaltsm/_digitaltsm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Landing</title>
+      <link>//localhost:1313/landing/_landing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/landing/_landing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Our Technology</title>
+      <link>//localhost:1313/technology/_about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/technology/_about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Press</title>
+      <link>//localhost:1313/press/_press/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/press/_press/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Producst &amp; Services</title>
+      <link>//localhost:1313/products/_products/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/products/_products/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ROSIE PI</title>
+      <link>//localhost:1313/rosiepi/_rosiepi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/rosiepi/_rosiepi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Special Services</title>
+      <link>//localhost:1313/atm/_services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/atm/_services/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

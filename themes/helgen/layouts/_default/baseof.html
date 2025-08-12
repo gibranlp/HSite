@@ -1,0 +1,17 @@
+<html lang="{{ .Site.Language.Lang }}">
+  <head>{{ partial "head.html" . }}</head>
+  <body>
+    {{ partial "header.html" . }}
+    {{ block "main" . }}{{ end }}
+
+    {{ block "footer" . }}
+      {{ if eq .Site.Language.Lang "es" }}
+        {{ partial "footer.es.html" . }}
+      {{ else }}
+        {{ partial "footer.html" . }}
+      {{ end }}
+    {{ end }}
+
+    {{ partial "javascript.html" . }}
+  </body>
+</html>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digitaltp on Helgen Technologies</title>
+    <link>//localhost:1313/en/digitaltp/</link>
+    <description>Recent content in Digitaltp on Helgen Technologies</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <atom:link href="//localhost:1313/en/digitaltp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digital Twin Simulation Services</title>
+      <link>//localhost:1313/en/digitaltp/_digitaltp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/digitaltp/_digitaltp/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
